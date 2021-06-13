@@ -3,7 +3,17 @@ entries:
   sample-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-13T17:10:52.049402167Z"
+    created: "2021-06-13T17:43:11.244392411Z"
+    description: Sample helm chart
+    digest: 4427db2dde6a5ffecfbc3d74e8c33096de820d9525f956bb957da2b7e6410526
+    name: sample-chart
+    type: application
+    urls:
+    - sample-chart-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-13T17:43:11.243762749Z"
     description: Sample helm chart
     digest: 00271751dcfefe6882f144b09560bc8e4e2d5068cba603149a9863ba12f14ddb
     name: sample-chart
@@ -14,7 +24,7 @@ entries:
   sample-chart2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-13T17:10:52.050021144Z"
+    created: "2021-06-13T17:43:11.244947624Z"
     description: A Helm chart for Kubernetes
     digest: df2c2ecdfd13d5170cdf44cd73fd8c29163025837adb32345bc0b5dd9421b2bd
     name: sample-chart2
@@ -22,4 +32,4 @@ entries:
     urls:
     - sample-chart2-0.2.1.tgz
     version: 0.2.1
-generated: "2021-06-13T17:10:52.048395697Z"
+generated: "2021-06-13T17:43:11.242944417Z"
